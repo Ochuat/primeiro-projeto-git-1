@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	// COntrole de versões
+	// Controle de versões
 	cout>>"Hello world";
 
 }
